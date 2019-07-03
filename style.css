@@ -75,19 +75,19 @@ section h1 {
 }
 
 /* Section Images */
-section#home {
+section#hem {
   background: url('https://images.unsplash.com/photo-1561983818-e339e248ac5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9') no-repeat center center/cover;;
 }
 
-section#about {
+section#om {
   background: url('https://source.unsplash.com/VRxo0yY-gyM/1600x900') no-repeat center center/cover;;
 }
 
-section#service {
+section#blimedlem {
   background: url('https://source.unsplash.com/K2tdx2mFDHc/1600x900') no-repeat center center/cover;;
 }
 
-section#contact {
+section#kontakt {
   background: url('https://source.unsplash.com/2aAHlfDOhJM/1600x900') no-repeat center center/cover;;
 }
 
