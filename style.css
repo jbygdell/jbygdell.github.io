@@ -42,6 +42,12 @@ body {
   flex-wrap: wrap;
 }
 
+@media only screen and (orientation: portrait) {
+  .navbar ul li {
+    margin: 0 0;
+    padding: 0;
+  }
+}
 .navbar ul li {
   margin: 0 1rem;
   padding: 1rem;
