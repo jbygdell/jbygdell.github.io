@@ -71,23 +71,34 @@ section {
 }
 
 section h1 {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
+section p {
+    margin: 0 1rem;
+    padding: 1rem;
+    justify-content: center;
+    color: #f4f4f4;
+  }
+
+section p a {
+  justify-content: center;
+  color: #f4f4f4;
+}
 /* Section Images */
 section#hem {
-  background: url('https://images.unsplash.com/photo-1561983818-e339e248ac5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9') no-repeat center center/cover;;
+  background: url('https://images.unsplash.com/photo-1561983818-e339e248ac5c') no-repeat center center/cover;;
 }
 
-section#om {
-  background: url('https://source.unsplash.com/K2tdx2mFDHc/1600x900') no-repeat center center/cover;;
+section#omoss {
+  background: url('https://images.unsplash.com/photo-1536978514793-2ae19d485bf3') no-repeat center center/cover;;
 }
 
 section#blimedlem {
-  background: url('https://source.unsplash.com/K2tdx2mFDHc/1600x900') no-repeat center center/cover;;
+  background: url('https://images.unsplash.com/photo-1538936833128-5bbd46b83ad1') no-repeat center center/cover;;
 }
 
-section#kontakt {
-  background: url('https://source.unsplash.com/2aAHlfDOhJM/1600x900') no-repeat center center/cover;;
+section#kontakta {
+  background: url('https://images.unsplash.com/photo-1526509348523-2217ac3168e3') no-repeat center center/cover;;
 }
 
