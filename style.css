@@ -42,17 +42,19 @@ body {
   flex-wrap: wrap;
 }
 
-@media only screen and (orientation: portrait) {
+@media screen and (orientation: landscape) {
   .navbar ul li {
-    margin: 0 0;
+    margin: 0 1rem;
+    padding: 1rem;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  .navbar ul li {
+    margin: 0 1rem;
     padding: 0;
   }
 }
-.navbar ul li {
-  margin: 0 1rem;
-  padding: 1rem;
-}
-
 .navbar ul li a {
   text-decoration: none;
   text-transform: uppercase;
