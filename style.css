@@ -39,7 +39,7 @@ body {
     width: 100%;
     height: 4rem;
     background: rgba(0, 0, 0, 0.7);
-    visibility: visible;
+    visibility: hidden;
 }
 
 .navbar ul {
