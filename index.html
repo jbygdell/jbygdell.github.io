@@ -14,7 +14,12 @@
 <body>
         <div class="container">
             <div class="menu-wrap">
-                <input type="checkbox" class="toggler">
+                    <script>
+                        function uncheck() {
+                            document.getElementById("toggler").checked=false;
+                            }
+                    </script>
+                <input type="checkbox" class="toggler" id="toggler">
                 <div class="hamburger">
                     <div></div>
                 </div>
@@ -22,10 +27,10 @@
                     <div>
                         <div>
                             <ul>
-                                <li><a href="#">Hem</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="#hem" onclick="uncheck()">Hem</a></li>
+                                <li><a href="#omoss" onclick="uncheck()">About</a></li>
+                                <li><a href="#" onclick="uncheck()">Services</a></li>
+                                <li><a href="#" onclick="uncheck()">Contact</a></li>
                             </ul>
                         </div>
                     </div>
