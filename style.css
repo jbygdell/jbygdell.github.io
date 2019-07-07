@@ -39,7 +39,7 @@ body {
 .lead {
     font-size: 1.5rem;
 }
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 599px) {
     .toggler {
         position: absolute;
         top: 0;
@@ -115,7 +115,7 @@ body {
     }
 
 }
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 600px) {
     header {
         height: 4rem;
     }
