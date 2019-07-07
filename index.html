@@ -8,44 +8,29 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <title>Umeå dyksällskap</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="menu.css">
+    <!-- <link rel="stylesheet" href="menu.css"> -->
 </head>
-
+<header>
+    <script>
+        function uncheck() {
+            document.getElementById("toggler").checked=false;
+            }
+    </script>
+    <input type="checkbox" class="toggler" id="toggler">
+    <nav class="navbar">
+        <ul>
+            <li><a href="#hem" onclick="uncheck()">Hem</a></li>
+            <li><a href="#omoss" onclick="uncheck()">Om oss</a></li>
+            <li><a href="#blimedlem" onclick="uncheck()">Bli medlem</a></li>
+            <li><a href="#kontakta" onclick="uncheck()">Kontakta oss</a></li>
+        </ul>
+    </nav>
+    <label for="toggler" class="hamburger">
+        <div></div>
+    </label>
+</header>
 <body>
     <div class="container">
-        <nav class="menu-wrap">
-                <script>
-                    function uncheck() {
-                        document.getElementById("toggler").checked=false;
-                        }
-                </script>
-            <input type="checkbox" class="toggler" id="toggler">
-            <div class="hamburger">
-                <div></div>
-            </div>
-            <div class="menu">
-                <div>
-                    <div>
-                        <ul>
-                            <li><a href="#hem" onclick="uncheck()">Hem</a></li>
-                            <li><a href="#omoss" onclick="uncheck()">Om oss</a></li>
-                            <li><a href="#blimedlem" onclick="uncheck()">Bli medlem</a></li>
-                            <li><a href="#kontakta" onclick="uncheck()">Kontakta oss</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </nav>
-
-        <nav class="navbar">
-            <ul>
-                <li><a href="#hem">Hem</a></li>
-                <li><a href="#omoss">Om oss</a></li>
-                <li><a href="#blimedlem">Bli medlem</a></li>
-                <li><a href="#kontakta">Kontakta oss</a></li>
-            </ul>
-        </nav>
-
         <section id="hem">
             <h1>Umeå dyksällskap</h1>
             <p class="lead">Sugen på att komma i kontakt med likasinnade, svårt att komma igång med dykningen,
