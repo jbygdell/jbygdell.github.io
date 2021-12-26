@@ -307,7 +307,6 @@ exclude:
   - .github
   - .nojekyll
   - docker-compose.yml
-  -
 # include:
 #   - .well-known
 #   - LICENSE.md
