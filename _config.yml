@@ -76,8 +76,8 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
@@ -304,6 +304,10 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  - .github
+  - .nojekyll
+  - docker-compose.yml
+  -
 # include:
 #   - .well-known
 #   - LICENSE.md
@@ -313,7 +317,6 @@ exclude:
 
 plugins:
   - jekyll-default-layout
-  - jekyll-feed
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
