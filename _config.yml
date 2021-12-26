@@ -50,6 +50,8 @@ menu:
     url: /medlemskap
   - title: Dykplatser
     url: /dykplatser/
+  - title: Service
+    url: /service/
   - title: Utbildning
     url: /utbildning/
 

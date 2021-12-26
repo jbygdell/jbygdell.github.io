@@ -22,6 +22,9 @@ permalink: /dykplatser/
 * [Ratan](ratan)
 * Bjuröklubb
 
-#### Dykplateser kring Ö-vik
+#### Dykplatser kring Ö-vik
 
+* Kläppaviken
+* Käxed
+* Långroudden
 * Ällöviken
