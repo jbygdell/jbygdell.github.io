@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - foo
+      - master
 
 jobs:
   deploy:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: ${{ secrets.GH_REPO_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           submodules: true
       - uses: actions/cache@v2
         with:
@@ -22,7 +22,7 @@ jobs:
             ${{ runner.os }}-gems-
       - uses: helaili/jekyll-action@2.1.0
         with:
-          token: ${{ secrets.GH_REPO_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_env: production
           jekyll_src: .
           build_only: true
