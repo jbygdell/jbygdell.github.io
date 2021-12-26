@@ -5,8 +5,7 @@ description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
 hide_description: true
-permalink: /info/
-cover: true
+cover: false
 ---
 
 Umeådyksällskap är en ideell förening ansluten till Svenska Sportdykarförbundet.

@@ -46,8 +46,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: Om sällskapet
-    url: /info/
   - title: Bli medlem
     url: /medlemskap
   - title: Dykplatser

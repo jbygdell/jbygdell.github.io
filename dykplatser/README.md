@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: list
 title: Dykplatser
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
@@ -8,7 +8,7 @@ sitemap: false
 permalink: /dykplatser/
 ---
 
-#### Lokala dykplateser
+#### Lokala dykplatser
 
 * Bredskär
 * Umeälven
@@ -19,7 +19,7 @@ permalink: /dykplatser/
 #### Andra dykplatser
 
 * Storsandsjön (Bjurholm)
-* Ratan
+* [Ratan](ratan)
 * Bjuröklubb
 
 #### Dykplateser kring Ö-vik
