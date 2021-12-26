@@ -1,0 +1,36 @@
+hy-drawer {
+  width: 100%; 
+  position: relative; 
+  overflow: hidden; 
+  display: block; 
+  z-index: 4; 
+  @media screen {
+    
+  }
+
+  @media screen and (min-width: $break-point-3) {
+    
+    position: fixed;
+    width: $sidebar-width;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin-left: 0;
+
+    &.cover {
+      position: relative;
+      width: 100%;
+    }
+    
+
+    
+  }
+
+  @media screen and (min-width: $break-point-dynamic) {
+    width: calc(50% - #{$half-content});
+
+    
+  }
+
+  
+}
