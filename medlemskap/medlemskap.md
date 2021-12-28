@@ -22,13 +22,13 @@ För att bli medlem behöver du fylla in [detta formulär](https://docs.google.c
 Sportdykande senior (1200 kr/år):
 Medlemskap för dig som är 20 år eller äldre.
 
+Sportdykande ungdom (600 kr/år):
+Medlemskap för dig som är under 20 år.
+
 Familjemedlemskap (1800 kr/år):
 Två vuxna med barn under 18 år.
 
 Extra medlemskap (900 kr/år):
 Sportdykande senior som är fullt betalande medlen i annan SSDF ansluten förening
-
-Sportdykande ungdom (600 kr/år):
-Medlemskap för dig som är under 20 år.
 
 Klubbsupporter är till för dig som kanske inte dyker aktivt men ändå vill stödja vår verksamhet och hälsa på någon gång vid våra utflykter. (250 kr/år )
