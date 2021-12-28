@@ -3,7 +3,7 @@ services:
   jekyll:
     container_name: jekyll
     image: jekyll/builder:4
-    command: jekyll serve
+    command: jekyll serve --trace
     ports:
       - 4000:4000
     volumes:

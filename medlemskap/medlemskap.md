@@ -18,6 +18,7 @@ Du får självklart följa med på klubbens utfärder och resor.
 För att bli medlem behöver du fylla in [detta formulär](https://docs.google.com/forms/d/e/1FAIpQLSd5k84t6BEziO8_tiQ88R9CSd-9PxU7jscayibC71K9oTFQKg/viewform)
 
 #### Aktuella medlemsavgifter
+
 Sportdykande senior (1200 kr/år):
 Medlemskap för dig som är 20 år eller äldre.
 

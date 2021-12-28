@@ -5,9 +5,9 @@ description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
 sitemap: false
+image: 
+  path: /assets/swedtech-logo.png
 ---
-
-
 
 Efter godkänd samt avklarad kurs är du certificerad att dyka med torrdräkt ner till ett maxdjup på 30 meter med luft eller nitrox som andningsgas.
 

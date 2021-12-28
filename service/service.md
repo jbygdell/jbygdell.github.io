@@ -19,8 +19,8 @@ Priserna inkluderar material och arbete.
 
 | Installation av ringsystem |       Pris |
 | :------------------------- | ---------: |
-| SiTech Orust               | 1750.00 kr |
-| SiTech SLÄGGÖ              | 1450.00 kr |
+| SiTech Orust (hals)        | 1750.00 kr |
+| SiTech SLÄGGÖ (handled)    | 1450.00 kr |
 {:.stretch-table}
 
 | Flaskservice                                  |        Pris |

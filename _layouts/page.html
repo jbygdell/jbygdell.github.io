@@ -22,6 +22,20 @@ layout: base
 <article class="page mb6" role="article">
     <header>
         <h1 class="page-title">{{ page.title }}</h1>
+        {% unless page.hide_image %}
+            {% if page.image %}
+                {% unless no_link_title %}<a href="{{ page.url | relative_url }}"
+                    class="no-hover no-print-link {% unless page.hide_image %}flip-project{% endunless %}" tabindex="-1">
+                {%endunless %}
+                    <div class="img-wrapper lead flip-project-img">
+                        {% include components/hy-img.html img=page.image alt=page.title %}
+                    </div>
+                {% unless no_link_title %}
+                    </a>
+                {% endunless %}
+                {% assign alt = '' %}
+            {% endif %}
+        {% endunless %}
         {% include components/message.html text=page.description hide=page.hide_description %}
     </header>
 
