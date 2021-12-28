@@ -7,6 +7,11 @@ hide_description: true
 sitemap: false
 image: 
   path: /assets/swedtech-logo.svg
+  srcset:
+    2000w: /assets/swedtech-logo.svg
+    1000w: /assets/swedtech-logo@0,5x.png
+    500w: /assets/swedtech-logo@0,25x.png
+    250w: /assets/swedtech-logo@0,125x.png
 ---
 
 Efter godkänd samt avklarad kurs är du certificerad att dyka med torrdräkt ner till ett maxdjup på 30 meter med luft eller nitrox som andningsgas.
