@@ -1,5 +1,5 @@
 ---
-# layout: page
+layout: page
 title: Utbildning
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
@@ -13,6 +13,5 @@ Sällskapet erbjuder dig som vill lära dig att dyka en grundkurs i sportdykning
 Är du intresserad och vill veta mer, skicka ett [mail](mailto:utbildning@umeadyksallskap.se) så hör vi av oss.
 
 * [Scuba Diver Basic Skills](scubadiver){:.heading.flip-title} --- [SwedTech Divings](https://www.swedtechdiving.se) grundkurs i dykning
-* [Uppfräschning](repetition){:.heading.flip-title} --- För dig som tagit ditt certifikat utomlands men vill dyka på hemmaplan
-
-{:.related-posts.faded}
+* [Torrdräktskurs](torrdrakt){:.heading.flip-title} --- För dig som saknar kunskaper eller erfarenhet av att dyka med torrdräkt.
+* [Uppfräschning](repetition){:.heading.flip-title} --- För dig som har ett certifikat men som inte dykt på länge

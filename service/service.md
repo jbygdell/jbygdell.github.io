@@ -23,12 +23,12 @@ Priserna inkluderar material och arbete.
 | SiTech SLÄGGÖ (handled)    | 1450.00 kr |
 {:.stretch-table}
 
-| Flaskservice                                  |        Pris |
-| :-------------------------------------------- | ----------: |
-| Visuell inspektion enkelflaska                |   150.00 kr |
-| Visuell inspektion dubblepaket                |   400.00 kr |
-| Kranservice enkelflaska                       |   300.00 kr |
-| Kranservice dubbelpaket                       |   700.00 kr |
-| Sygasanpassning enkelflaska inkl. kranservice |   550.00 kr |
-| Sygasanpassning dubbelpaket inkl. kranservice | 1,250.00 kr |
+| Flaskservice                   |        Pris |
+| :----------------------------- | ----------: |
+| Visuell inspektion enkelflaska |   150.00 kr |
+| Visuell inspektion dubblepaket |   400.00 kr |
+| Kranservice enkelflaska        |   300.00 kr |
+| Kranservice dubbelpaket        |   700.00 kr |
+| Sygasanpassning enkelflaska    |   550.00 kr |
+| Sygasanpassning dubbelpaket    | 1,250.00 kr |
 {:.stretch-table}
