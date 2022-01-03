@@ -6,3 +6,5 @@ description: >
 hide_description: true
 sitemap: false
 ---
+
+Öppna i [google Mpas](https://maps.google.com/?z=12&t=h&q=64.001952,20.895893)
