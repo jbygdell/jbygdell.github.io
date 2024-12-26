@@ -20,6 +20,10 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
 
+  # gem "jekyll-maps"
+  # gem "jekyll-open_street_map"
+  # gem "jekyll-mapping"
+  # gem "jemoji"
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
