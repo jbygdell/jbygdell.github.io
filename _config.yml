@@ -46,7 +46,7 @@ menu:
   - title: Utbildning
     url: /utbildning/
   - title: Blog
-    url: /blog
+    url: /blog/ 
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
@@ -151,6 +151,5 @@ sass:
   style: compressed
 
 disable_disk_cache: true
-# baseurl: "/"
 
 remote_theme: hydecorp/hydejack@v9.2.1
