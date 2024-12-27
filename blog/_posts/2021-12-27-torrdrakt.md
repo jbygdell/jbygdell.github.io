@@ -6,11 +6,11 @@ description: >
 hide_description: true
 sitemap: false
 image:
-  path: /assets/img/swedtech-logo.svg
+  path: /assets/img/FB-logga.png
   srcset:
-    1920w: /assets/img/swedtech-logo.png
-    960w:  /assets/img/swedtech-logo@0,5x.png
-    480w:  /assets/img/swedtech-logo@0,25.png
+    1920w: /assets/img/FB-logga.png
+    960w:  /assets/img/FB-logga@0,5x.png
+    480w:  /assets/img/FB-logga@0,25.png
 no_excerpt: true
 ---
 
