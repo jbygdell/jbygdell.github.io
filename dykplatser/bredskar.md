@@ -24,9 +24,13 @@ Då platsen ligger precis i älvsmynningen så kan det förekomma södergående 
 
 3-4m vid gynsamma förhållanden. Ofta befränsad sikt på grund av det sediment som Umeälven för med sig.
 
+#### Farliga områden
+
+Sporadisk båttrafik under sommaren.
+
 #### Bottenförhållanden
 
-Bottnen mest av sand och lera, ytlagret är oftast mjukt vilket gör att det är lätt att röra upp sedimentet med försämrade siktförhållanden som resultat.
+Bottnen består mest av sand och lera, ytlagret är oftast mjukt vilket gör att det är lätt att röra upp sedimentet med försämrade siktförhållanden som resultat.
 
 #### Faciliteter
 

@@ -17,9 +17,13 @@ Norrfors kraftstation började byggas 1924 och stod klar i november 1926. Anläg
 
 #### Sikt
 
-3-4m sikt vid gynsamma förhållanden. Vattnet är mycket mörkt och i kombination med det fina sedimentet i älvsvattnet gör att sikten blir begränsad.
+3-4m sikt vid gynsamma förhållanden. Vattnet är mycket mörkt och i kombination med det fina sedimentet i älvsvattnet gör det att sikten blir begränsad.
 
 ![image](/dykplatser/korsning.png){:.lead width="1280" height="720" loading="lazy"}
+
+#### Farliga områden
+
+Det finns fortfarande tak på en av byggnaderna, för att förhindra att man simmar in på fel ställe så är det dragit referenslinor som guidar en dykare runt byggnaderna.
 
 #### Faciliteter
 

@@ -24,6 +24,10 @@ Obefintlig.
 
 7-8m sikt vid gynsamma förhållanden.
 
+#### Farliga områden
+
+Sporadisk båttrafik under sommaren.
+
 #### Bottenförhållanden
 
 Trots att det finns klippor runtomkring i viken så består bottnen mest av sand och lera. En del stora stenar efter kanterna men platt mitt på med en del stora sjok av dött växtmaterial.
@@ -33,5 +37,7 @@ Trots att det finns klippor runtomkring i viken så består bottnen mest av sand
 Några bänkar och bord.
 
 #### Växt och djurliv
+
+En hel del djur och växtliv efter kanterna med sjögräs, Kantnål, Spigg, Aborre. PÅ den planare delen av botten så går det att hitta tånglake och Simpa.
 
 ![image](/dykplatser/spigg.jpg){:.lead width="960" height="540" loading="lazy"}
