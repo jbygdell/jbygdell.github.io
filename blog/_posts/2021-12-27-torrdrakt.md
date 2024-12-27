@@ -6,7 +6,7 @@ description: >
 hide_description: true
 sitemap: false
 image: 
-  path: /assets/img/swedtech-logo.png
+  path: /assets/img/swedtech-logo@0,25.png
   srcset:
     1920w: /assets/img/swedtech-logo.png
     960w:  /assets/img/swedtech-logo@0,5x.png
