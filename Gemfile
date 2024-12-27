@@ -2,8 +2,6 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.9"
 
-gem "jekyll-theme-hydejack", "~> 9.2"
-
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
