@@ -23,5 +23,3 @@ Priset för kursen är 3000 kr och inkluderar medlemskap i Umeå Dyksällskap f�
 
 * Certifierad dykare (CMAS *, PADI OW, NAUI OWD, Swedtech Scubadiver)
 * 18 år fulld vid kursstart (15 år med målsmans skriftliga tillåtelse).
-
-
