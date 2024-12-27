@@ -5,8 +5,8 @@ description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
 sitemap: false
-image: 
-  path: /assets/img/swedtech-logo@0,25.png
+image:
+  path: /assets/img/swedtech-logo.svg
   srcset:
     1920w: /assets/img/swedtech-logo.png
     960w:  /assets/img/swedtech-logo@0,5x.png
