@@ -18,11 +18,11 @@ Lite text om dykplatsen, kanske en bild ovan ytan samt en karta med intressanta 
 #### Ström
 
 Svag till påtaglig.
-Då platsen ligger precis i älvsmynningen så kan det förekomma södergående ytström ner till 2-3m, Vid väderlek med kraftiga sydliga vindar kan det bildas ytström i nordlig riktning.
+Då platsen ligger precis i älvsmynningen så kan det förekomma södergående ytström ner till 2-3m. Vid väderlek med kraftiga sydliga vindar kan det bildas ytström i nordlig riktning.
 
 #### Sikt
 
-3-4m sikt vid gynsamma förhållanden. Ofta befränsad sikt på grund av det sediment som Umeälven för med sig.
+3-4m vid gynsamma förhållanden. Ofta befränsad sikt på grund av det sediment som Umeälven för med sig.
 
 #### Bottenförhållanden
 
@@ -32,7 +32,7 @@ Bottnen mest av sand och lera, ytlagret är oftast mjukt vilket gör att det är
 
 Inga nämnvärda.
 
-#### växt och djurliv
+#### Växt och djurliv
 
 En hel del djur och växtliv efter kanterna med sjögräs, Kantnål, Spigg, Aborre. På mitten där det blir lite djupare mer Simpor, Gärs och Tånglake. Under hösten kan man finna längs kanterna på 2-5m djup massvis med havsnål och har man lite tur även en eller annan gädda.
 
