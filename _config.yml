@@ -151,6 +151,6 @@ sass:
   style: compressed
 
 disable_disk_cache: true
-baseurl: "/blog"
+# baseurl: "/"
 
 remote_theme: hydecorp/hydejack@v9.2.1
