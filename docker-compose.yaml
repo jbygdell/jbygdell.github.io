@@ -4,6 +4,8 @@ services:
     container_name: jekyll
     image: jekyll/builder:4
     command: jekyll serve --trace
+    environment:
+      - JEKYLL_ENV=production
     ports:
       - 4000:4000
     volumes:

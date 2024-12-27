@@ -4,15 +4,16 @@ title: CMAS one star diver
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
-image:
-  path: /assets/img/swedtech-logo.svg
-  srcset:
-    2000w: /assets/swedtech-logo.svg
-    1000w: /assets/swedtech-logo@0,5x.png
-    500w: /assets/swedtech-logo@0,25x.png
-    250w: /assets/swedtech-logo@0,125x.png
 ---
 
-One Star är grundkursen inom SSDF/CMAS.
+One Star är grundkursen inom [SSDF/CMAS](https://www.ssdf.se/utbildning/sportdykarutbildning/grund--och-fortsattningskurser){:target="_blank"}.
 
 Målet med kursen är att ge dykeleven såväl praktiska som teoretiska kunskaper och nödvändiga dyktekniker för att säkert dyka till maximalt 20 meters djup.
+
+Priset för kursen är 6000 kr och inkluderar medlemskap i Umeå Dyksällskap för det aktuella kalenderåret.
+
+#### Förkrav
+
+* Eleven skall vara minst 18 år (15 år med målsmans skriftliga tillåtelse)
+* Uppvisa godkänd hälsodeklaration för apparatdykning
+* Eleven skall kunna simma minst 200 meter utan avbrott och ha god vattenvana.

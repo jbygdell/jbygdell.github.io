@@ -5,6 +5,8 @@ description: >
   Dykplatser runt omkring Umeå.
 hide_description: true
 permalink: /dykplatser/
+image:
+  path: /assets/img/swedtech-logo.png
 ---
 
 #### Lokala dykplatser

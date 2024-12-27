@@ -16,3 +16,8 @@ Priset för kursen är 2000 kr och inkluderar medlemskap i Umeå Dyksällskap f�
 * Orientering i olika torrdräktsmodeller, samt vad du skall tänka på vid val av torrdräkt
 * Problemlösning med torrdräkt
 * En dags dykträning
+
+#### Förkrav
+
+* Certifierad dykare (CMAS *, PADI OW, NAUI OWD, Swedtech Scubadiver)
+* 18 år fulld vid kursstart (15 år med målsmans skriftliga tillåtelse).

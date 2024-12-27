@@ -9,7 +9,7 @@ hide_description: true
 Lite text om dykplatsen, kanske en bild ovan ytan samt en karta med intressanta objekt under vattnet.  
 [Hitta hit](https://www.google.com/maps/dir/?api=1&origin=Current+Location&destination=63.216272,19.031825){:target="_blank"}
 
-![image](/dykplatser/alloviken.jpg){:.lead width="1067" height="600" loading="lazy"}
+![image](/dykplatser/alloviken.jpg){:.lead width="900" height="450" loading="lazy"}
 
 #### Djup
 

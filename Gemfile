@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.1"
 
-gem "jekyll-theme-hydejack", "~> 9.1"
+gem "jekyll-theme-hydejack", "~> 9.2"
 
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
@@ -20,10 +20,6 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
 
-  # gem "jekyll-maps"
-  # gem "jekyll-open_street_map"
-  # gem "jekyll-mapping"
-  # gem "jemoji"
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
