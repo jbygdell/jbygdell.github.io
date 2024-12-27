@@ -11,7 +11,8 @@ image:
     1920w: /assets/img/swedtech-logo.png
     960w:  /assets/img/swedtech-logo@0,5x.png
     480w:  /assets/img/swedtech-logo@0,25.png
-no_excerpt: true
+no_excerpt: false
+excerpt_separator: <!--more-->
 ---
 
 test test test

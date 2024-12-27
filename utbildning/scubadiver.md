@@ -5,13 +5,6 @@ description: >
   SwedTech Divings grundkurs i sportdykning. Målet med kursen är dykning med luft eller Nitrox till 30 meter.
 hide_description: true
 sitemap: false
-image: 
-  path: /assets/swedtech-logo.svg
-  srcset:
-    2000w: /assets/swedtech-logo.svg
-    1000w: /assets/swedtech-logo@0,5x.png
-    500w: /assets/swedtech-logo@0,25x.png
-    250w: /assets/swedtech-logo@0,125x.png
 ---
 
 Scuba Diver Basic Skills är Swedtech Divings grundkurs i sportdykning. Målet är att ge eleven kunskapen att planera och utföra dyk med torrdräkt ner till ett maxdjup på 30 meter med luft eller nitrox som andningsgas.
