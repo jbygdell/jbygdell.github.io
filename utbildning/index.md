@@ -7,7 +7,7 @@ hide_description: true
 permalink: /utbildning/
 ---
 
-Vill du lära dig att dyka och utforska den fantastiska undervattensvärlden runt om i världen?
+Vill du lära dig att dyka och utforska den fantastiska undervattensvärlden? Från tropikernas blåa hav till Östersjöns gröna vatten.
 
 Är du intresserad och vill veta mer, skicka ett [mail](mailto:utbildning@umeadyksallskap.se) så hör någon av våra instruktörer av sig.
 
