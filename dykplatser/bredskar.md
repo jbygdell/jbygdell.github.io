@@ -13,11 +13,20 @@ Lite text om dykplatsen, kanske en bild ovan ytan samt en karta med intressanta 
 
 #### Djup
 
-11-16m.
+6-16m.
+
+#### Ström
+
+Svag till påtaglig.
+Då platsen ligger precis i älvsmynningen så kan det förekomma södergående ytström ner till 2-3m, Vid väderlek med kraftiga sydliga vindar kan det bildas ytström i nordlig riktning.
 
 #### Sikt
 
-3-4m sikt vid gynsamma förhållanden.
+3-4m sikt vid gynsamma förhållanden. Ofta befränsad sikt på grund av det sediment som Umeälven för med sig.
+
+#### Bottenförhållanden
+
+Bottnen mest av sand och lera, ytlagret är oftast mjukt vilket gör att det är lätt att röra upp sedimentet med försämrade siktförhållanden som resultat.
 
 #### Faciliteter
 

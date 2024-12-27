@@ -11,16 +11,16 @@ image:
 
 #### Lokala dykplatser
 
-* [Bredskär](bredskar)
+* [Bredskär](bredskar){:.heading.flip-title}
 * Umeälven
 * 'Kalleankavraken'
-* ['Huset' - Norrfors kraftstation](huset)
+* ['Huset' - Norrfors kraftstation](huset){:.heading.flip-title}
 * Annie
 
 #### Andra dykplatser
 
 * Storsandsjön (Bjurholm)
-* [Ratan](ratan)
+* [Ratan](ratan){:.heading.flip-title}
 * Bjuröklubb
 
 #### Dykplatser kring Ö-vik
@@ -28,4 +28,4 @@ image:
 * Kläppaviken
 * Käxed
 * Långroudden
-* [Ällöviken](alloviken)
+* [Ällöviken](alloviken){:.heading.flip-title}
