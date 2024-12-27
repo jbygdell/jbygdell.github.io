@@ -48,6 +48,10 @@ menu:
   - title: Blog
     url: /blog/
 
+# Pagination configuration (used by the `blog` layout)
+paginate: 10
+paginate_path: /blog/:num/
+
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
 # These settings are specific to Hydejack.
