@@ -2,7 +2,7 @@
 layout: page
 title: Scuba Diver Basic Skills
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  SwedTech Divings grundkurs i sportdykning. Målet med kursen är dykning med luft eller Nitrox till 30 meter.
 hide_description: true
 sitemap: false
 image: 
@@ -14,11 +14,11 @@ image:
     250w: /assets/swedtech-logo@0,125x.png
 ---
 
-Efter godkänd samt avklarad kurs är du certificerad att dyka med torrdräkt ner till ett maxdjup på 30 meter med luft eller nitrox som andningsgas.
+Scuba Diver Basic Skills är Swedtech Divings grundkurs i sportdykning. Målet är att ge eleven kunskapen att planera och utföra dyk med torrdräkt ner till ett maxdjup på 30 meter med luft eller nitrox som andningsgas.
 
-Kursen är mer omfattande än vad som är normalt vid en nybörjarkurs och passar även som fortsättningskurs för oerfarna dykare med CMAS ⭐ eller PADI OW utbildning.
+Kursen är mer omfattande än vad som är normalt vid en nybörjarkurs och passar även som fortsättningskurs för oerfarna dykare med CMAS *, NAUI OWD eller PADI OW utbildning.
 
-Priset för kursen är 8000 kr och inkluderar medlemskap i Umeå Dyksällskap för det aktuella kalenderåret.
+![image](/utbildning/sds.jpg)
 
 #### Kursens innehåll
 
@@ -29,5 +29,5 @@ Priset för kursen är 8000 kr och inkluderar medlemskap i Umeå Dyksällskap f�
 #### Förkrav Scuba Diver Basic Skills
 
 * Eleven skall vara minst 18 år (15 år med målsmans skriftliga tillåtelse)
-* Uppvisa av SwedTech Diving godkänd hälsodeklaration för apparatdykning
+* Uppvisa godkänd hälsodeklaration för apparatdykning
 * Eleven skall kunna simma minst 200 meter utan avbrott och ha god vattenvana.

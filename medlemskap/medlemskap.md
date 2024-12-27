@@ -7,15 +7,17 @@ description: >
 permalink: /medlemskap
 ---
 
-#### Medlemsförmåner för medlemmar i Umeå Dyksällskap.
+![image](/assets/img/sallskap.jpg){:.lead width="1700" height="800" loading="lazy"}
 
-Du blir ansluten till Svenska sportdykareförbundet (SSDF)
-Du får en försäkring som skyddar dig ([läs mer här](http://www.ssdf.se/foreningar/forsakringen/)).
-Du får tillgång till fri luftfyllning för eget bruk.
-Du kan hyra utrustning av sällskapet.
-Du får självklart följa med på klubbens utfärder och resor.
+#### Medlemsförmåner för medlemmar i Umeå Dyksällskap
 
-För att bli medlem behöver du fylla in [detta formulär](https://docs.google.com/forms/d/e/1FAIpQLSd5k84t6BEziO8_tiQ88R9CSd-9PxU7jscayibC71K9oTFQKg/viewform)
+* Du blir ansluten till Svenska sportdykareförbundet (SSDF)
+([läs mer här](https://www.ssdf.se/foreningsinformation/vad-ingar-i-medlemskapet){:target="_blank"}).
+* Du får tillgång till fri luftfyllning för eget bruk.
+* Du kan hyra utrustning av sällskapet.
+* Du får självklart följa med på klubbens utfärder och resor.
+
+För att bli medlem behöver du fylla in [detta formulär](https://docs.google.com/forms/d/e/1FAIpQLSd5k84t6BEziO8_tiQ88R9CSd-9PxU7jscayibC71K9oTFQKg/viewform){:target="_blank"}
 
 #### Aktuella medlemsavgifter
 

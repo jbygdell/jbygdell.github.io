@@ -14,7 +14,14 @@ Priset för kursen är 3000 kr och inkluderar medlemskap i Umeå Dyksällskap f�
 #### Kursinnehåll
 
 * Teori repetition
-* Utrustnings konfiguration (platta, vinge och långslang)
+* Utrustningskonfiguration (platta, vinge och långslang)
 * Parkontroll
 * Gasdelning
 * Dykning med torrdräkt
+
+#### Förkrav
+
+* Certifierad dykare (CMAS *, PADI OW, NAUI OWD, Swedtech Scubadiver)
+* 18 år fulld vid kursstart (15 år med målsmans skriftliga tillåtelse).
+
+
