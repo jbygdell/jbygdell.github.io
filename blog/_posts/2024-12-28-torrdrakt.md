@@ -1,20 +1,16 @@
 ---
 layout: post
 title: Att välja torrdräkt
-description: >
-  Om du bryr dig om komfort när du dyker, vill du dyka
-längre och djupare, främst härrör från obegränsad njutning
-av att vara under vatten – satsa på en bra torrdräkt.
-hide_description: false
-sitemap: false
 image:
   path: /assets/img/FB-logga.png
   srcset:
     1920w: /assets/img/FB-logga.png
     960w:  /assets/img/FB-logga@0,5x.png
     480w:  /assets/img/FB-logga@0,25x.png
-no_excerpt: true
 ---
+Om du bryr dig om komfort när du dyker, vill du dyka
+längre och djupare, främst härrör från obegränsad njutning
+av att vara under vatten – satsa på en bra torrdräkt.
 
 <!-- # Att välja torrdräkt -->
 
