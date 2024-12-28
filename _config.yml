@@ -39,14 +39,14 @@ google_fonts: false
 menu:
   - title: Bli medlem
     url: /medlemskap
+  - title: Blog
+    url: /blog/
   - title: Dykplatser
     url: /dykplatser/
   # - title: Service
   #   url: /service/
   - title: Utbildning
     url: /utbildning/
-  - title: Blog
-    url: /blog/
 
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
