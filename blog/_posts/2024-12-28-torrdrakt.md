@@ -1,6 +1,5 @@
 ---
 layout: post
-# title: Att välja torrdräkt
 image:
   path: /assets/img/torrisar.jpg
   srcset:
@@ -12,11 +11,9 @@ image:
 # Att välja torrdräkt
 
 Om du bryr dig om komfort när du dyker, vill du dyka
-längre och djupare, främst härrör från obegränsad njutning
-av att vara under vatten – satsa på en bra torrdräkt.
+längre och djupare oavsett tid på året – satsa på en bra torrdräkt.
 
-Torrdräkter har blivit allt populärare bland dykare. Tekniska dykare, som ofta gör vrak eller teknisk dykning,
-lång och i kallare vatten vet detta mycket väl. De som dyker mindre ofta, de föredrar den kortare dykningen i varmare vatten är också alltmer benägna att välja torrdräkter. Varför? Eftersom de ger fantastisk komfort under vatten – vi är torra, varma och bekväma. Det finns fler fördelar med deras användning.
+I svenska vatten utsätts dykare nästan omedelbart för kyla då vattentemperaturerna på små djup sällan överstiger 10 grader, i dessa fall krävs dykning med torrdräkt och ett bra underställ. Alla tordräkter är inte likadana, nedan kommer några råd för dig som går i tankarna att börja dyka med torrdräkt.
 
 * toc
 {:toc .large-only}
@@ -25,18 +22,35 @@ lång och i kallare vatten vet detta mycket väl. De som dyker mindre ofta, de f
 
 Komfort
 {:.lead}
-Torrdräkter ger dykare en stor termisk komfort - både under långa dyk och efter att de är klara. Dykaren är helt isolerad från direktkontakt med vatten, så att kroppen inte kyls ner så snabbt.
+Torrdräkt används inte bara vid kallvattendykning. Många dyk kräver torrdräkt även i varmare vatten på grund av långa dyktider. Vatten leder värme 25 ggr bättre än luft.
 
 Förlänger dyksäsongen
 {:.lead}
-Dykning i torrdräkt förlänger dyksäsongen, eftersom det garanterar dig samma komfort när du dyker hela året, inte bara under sommarsäsongen för dykning.
+Dykning i torrdräkt förlänger dyksäsongen, eftersom det garanterar dig samma komfort när du dyker hela året, inte bara under sommarsäsongen.
 
 Ytterligare nödkälla för flytkraft
 {:.lead}
-Torrdräkt kan fungera som en nödkälla för flytkraft i händelse av fel på huvudkällan för flytkraft.
+Torrdräkt kan fungera som en nödkälla för flytkraft i händelse av fel på den primära källan för flytkraft.
 
 ## Olika sorters torrdräkter
 
-Innan du väljer en torrdräkt är det värt att överväga vilken typ av dyk som skulle behövas. Torrdräkter kan tillverkas av laminat eller neopren.
+Innan du väljer en torrdräkt är det värt att överväga vilken typ som skulle behövas. Torrdräkter kan tillverkas av gummi, laminat eller neopren.
 
-![Full-width image](/assets/img/torrisar.jpg){:.lead width="965" height="772" loading="lazy"}
+* Gummidräkter används framförallt inom yrkesdykningen pga. sin hållbarher och enklehet att reparera, de är däremot väldigt tunga och osmidiga.
+* Lamminatdräkter består vanligtvis av 2-4 lager med ett vattentätt membran som lager 2, det yttre lagret kan vara av nylon eller cordura för att få extra hållbarhet. En skaldräkt i ett smidigt trilaminat material påverkar inte heller flytkraften åt något håll.
+* Neporendräkter lider av samma problem som våtdräkter, de komprimeras under tryck och förlorar därmed sin lyftkraft och isolering.
+
+## Passform och storlek
+
+Dräkten ska ge så stor rörelsefrihet som möjligt utan att ha för mycket onödigt material.  
+Du ska kunna röra dig bra i dräkten utan att behöva ha för mycket överﬂödigt material. En dräkt med överflödigt material har sämre strömlinjeform, och ger en större möjlighet till gasvandring i dräkten, vilket kan leda till sämre balans hos dykaren. När du har dräkten på dig med det tjockaste understället du kommer att använda, ska du nå med handen mellan dina skulderblad.
+
+Olika tillverkare har olika skärning på sina dräkter, en dräkt i en viss storlek från en tillverkare behöver inte vara likvärdig en dräkt från en annan tillverakre i motsvarande storlek.
+
+## Vad utmärker en bra torrdräkt
+
+En torrdräkt i rätt storlek går att använda med underställ i olika tjocklekar. Den ger dig full rörliget även med det tjockaste understället. Dräkten har minst en benficka för förvaring av extra utrustning, men två fickor är att föredra. Dessa fickor skall vara placerade på sidan av benen, tänk på att dessa fickor kommer att innehålla en del utrustning, så de kan inte vara för små. Det ska vara lätt att komma åt innehållet i fickan även med tjocka handskar.
+
+En torrdräkt med dragkedjan framtill gör det enkelt att komma i och ur dräkten på egen hand. Moderna dragkedjor i plast är mer lättarbetade än dragkedjor i metall och nästan lika slitstarka.
+
+Många tillverkare har på senare tid börjat leverera dräkterna med ringsystem som standard, det gör det lättare att byta tätningarna som förseglar dräkten vid hals och handleder.
