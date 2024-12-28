@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Att välja torrdräkt
+# title: Att välja torrdräkt
 image:
   path: /assets/img/torrisar.jpg
   srcset:
@@ -8,12 +8,18 @@ image:
     960w:  /assets/img/torrisar.jpg@0,5x.png
     480w:  /assets/img/torrisar.jpg@0,25x.png
 ---
+
+# Att välja torrdräkt
+
 Om du bryr dig om komfort när du dyker, vill du dyka
 längre och djupare, främst härrör från obegränsad njutning
 av att vara under vatten – satsa på en bra torrdräkt.
 
 Torrdräkter har blivit allt populärare bland dykare. Tekniska dykare, som ofta gör vrak eller teknisk dykning,
 lång och i kallare vatten vet detta mycket väl. De som dyker mindre ofta, de föredrar den kortare dykningen i varmare vatten är också alltmer benägna att välja torrdräkter. Varför? Eftersom de ger fantastisk komfort under vatten – vi är torra, varma och bekväma. Det finns fler fördelar med deras användning.
+
+* toc
+{:toc .large-only}
 
 ## Fördelen med en torrdräkt
 
