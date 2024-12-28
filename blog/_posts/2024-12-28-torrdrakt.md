@@ -16,7 +16,7 @@ längre och djupare oavsett tid på året – satsa på en bra torrdräkt.
 I svenska vatten utsätts dykare nästan omedelbart för kyla då vattentemperaturerna på små djup sällan överstiger 10 grader, i dessa fall krävs dykning med torrdräkt och ett bra underställ. Alla tordräkter är inte likadana, nedan kommer några råd för dig som går i tankarna att börja dyka med torrdräkt.
 
 * toc
-{:toc .large-only}
+{:toc .large-only title="Innehåll"}
 
 ## Fördelen med en torrdräkt
 
