@@ -19,6 +19,9 @@ no_excerpt: false
 Torrdräkter har blivit allt populärare bland dykare. Tekniska dykare, som ofta gör vrak eller teknisk dykning,
 lång och i kallare vatten vet detta mycket väl. De som dyker mindre ofta, de föredrar den kortare dykningen i varmare vatten är också alltmer benägna att välja torrdräkter. Varför? Eftersom de ger fantastisk komfort under vatten – vi är torra, varma och bekväma. Det finns fler fördelar med deras användning.
 
+* toc
+{:toc .large-only}
+
 Fördelen med en torrdräkt
 {:.lead}
 
@@ -39,7 +42,4 @@ Olika sorters torrdräkter
 
 Innan du väljer en torrdräkt är det värt att överväga vilken typ av dyk som skulle behövas. Torrdräkter kan tillverkas av laminat eller neopren.
 
-
-
-
-![Full-width image](/blog/bilder/torrisar.jpg){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](/assets/img/torrisar.jpg){:.lead width="800" height="100" loading="lazy"}
