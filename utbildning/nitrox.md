@@ -23,4 +23,4 @@ Kursen ska ge kunskap om gasanalys, hantering av utrustning som kommer i kontakt
 #### Förkrav
 
 * Certifierad dykare (CMAS *, PADI OW, NAUI OWD, Swedtech Scubadiver)
-* 18 år fulld vid kursstart (15 år med målsmans skriftliga tillåtelse).
+* 18 år fylld vid kursstart (15 år med målsmans skriftliga tillåtelse).
