@@ -2,11 +2,11 @@
 layout: post
 title: Att välja torrdräkt
 image:
-  path: /assets/img/FB-logga.png
+  path: /assets/img/torrisar.jpg
   srcset:
-    1920w: /assets/img/FB-logga.png
-    960w:  /assets/img/FB-logga@0,5x.png
-    480w:  /assets/img/FB-logga@0,25x.png
+    1920w: /assets/img/torrisar.jpg
+    960w:  /assets/img/torrisar.jpg@0,5x.png
+    480w:  /assets/img/torrisar.jpg@0,25x.png
 ---
 Om du bryr dig om komfort när du dyker, vill du dyka
 längre och djupare, främst härrör från obegränsad njutning
@@ -37,4 +37,4 @@ Olika sorters torrdräkter
 
 Innan du väljer en torrdräkt är det värt att överväga vilken typ av dyk som skulle behövas. Torrdräkter kan tillverkas av laminat eller neopren.
 
-![Full-width image](/assets/img/torrisar.jpg){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](/assets/img/torrisar.jpg){:.lead width="965" height="772" loading="lazy"}
