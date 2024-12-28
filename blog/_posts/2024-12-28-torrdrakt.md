@@ -45,7 +45,7 @@ Innan du väljer en torrdräkt är det värt att överväga vilken typ som skull
 Dräkten ska ge så stor rörelsefrihet som möjligt utan att ha för mycket onödigt material.  
 Du ska kunna röra dig bra i dräkten utan att behöva ha för mycket överﬂödigt material. En dräkt med överflödigt material har sämre strömlinjeform, och ger en större möjlighet till gasvandring i dräkten, vilket kan leda till sämre balans hos dykaren. När du har dräkten på dig med det tjockaste understället du kommer att använda, ska du nå med handen mellan dina skulderblad.
 
-Olika tillverkare har olika skärning på sina dräkter, en dräkt i en viss storlek från en tillverkare behöver inte vara likvärdig en dräkt från en annan tillverakre i motsvarande storlek.
+Olika tillverkare har olika skärning på sina dräkter, en dräkt i en viss storlek från en tillverkare behöver inte vara likvärdig en dräkt från en annan tillverkare i motsvarande storlek.
 
 ## Vad utmärker en bra torrdräkt
 
@@ -54,3 +54,5 @@ En torrdräkt i rätt storlek går att använda med underställ i olika tjocklek
 En torrdräkt med dragkedjan framtill gör det enkelt att komma i och ur dräkten på egen hand. Moderna dragkedjor i plast är mer lättarbetade än dragkedjor i metall och nästan lika slitstarka.
 
 Många tillverkare har på senare tid börjat leverera dräkterna med ringsystem som standard, det gör det lättare att byta tätningarna som förseglar dräkten vid hals och handleder.
+
+Våra svenska vatten är oftast mörka, så en dräkt med inslag av skarpa färger (orange, turkos, rosa eller gul) gör att du som dykare blir lättare att se både ovan och under ytan.
