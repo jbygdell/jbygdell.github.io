@@ -109,7 +109,7 @@ hydejack:
   # This only affects the meta tag, not the color specified in the app manifest.
   no_theme_color: false
 
-  no_breadcrumbs: true
+  no_breadcrumbs: false
 
   use_lsi: true
   cookies_banner: false

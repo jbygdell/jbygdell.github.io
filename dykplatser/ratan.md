@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Ratan
-description: >
-  Ratan behöver en brskrivning.
-hide_description: true
-sitemap: false
 ---
 
 

@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Ällöviken
-description: >
-  Ällöviken behöver en beskrivning
-hide_description: true
 ---
 
 Lite text om dykplatsen, kanske en bild ovan ytan samt en karta med intressanta objekt under vattnet.  
 [Hitta hit](https://www.google.com/maps/dir/?api=1&origin=Current+Location&destination=63.216272,19.031825){:target="_blank"}
 
-![image](/dykplatser/alloviken2.jpg){:.lead width="868" height="488" loading="lazy"}
+![image](/assets/img/dykplatser/alloviken2.jpg){:.lead width="868" height="488" loading="lazy"}
 
 #### Djup
 
@@ -40,4 +37,4 @@ Några bänkar och bord.
 
 En hel del djur och växtliv efter kanterna med sjögräs, Kantnål, Spigg, Aborre. PÅ den planare delen av botten så går det att hitta tånglake och Simpa.
 
-![image](/dykplatser/spigg.jpg){:.lead width="960" height="540" loading="lazy"}
+![image](/assets/img/dykplatser/spigg.jpg){:.lead width="960" height="540" loading="lazy"}
