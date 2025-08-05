@@ -2,7 +2,7 @@
 title: QuarkenDyk
 author: QuarkenDyk
 description: > # Meta description of Homepage
-  TAGS.
+  Dykutbildning, dykutrustning, service av dykutrustning
 baseurl: ""
 url: "https://quarkendyk.se"
 
@@ -24,7 +24,7 @@ navigation: # Navigation links
   # - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Dykutbildning - Dykutrusting
+  Dykutbildning - Dykutrustning - Utrustningsservice
 
 hero_img: banner.JPG # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
