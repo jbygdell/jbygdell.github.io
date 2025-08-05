@@ -1,14 +1,9 @@
 ---
-layout: about
-title: Om sällskapet
-description: >
-  Umeådyksällskap är en ideell förening ansluten till Svenska Sportdykarförbundet.
-hide_description: true
-cover: true
+#
+# You don't need to edit this file, it's empty on purpose.
+# Edit sleeks's default layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: default
+title: ''
 ---
-
-Umeådyksällskap är en ideell förening ansluten till Svenska Sportdykarförbundet.
-Vi är en grupp trevliga människor med ett gemensamt intresse: dykning, och allt det som göms under ytan.  
-För det mesta håller vi till i vattnen omkring Umeå.
-
-Vi ordnar dykutflykter, dykresor, dykpubar och andra aktiviteter tillsammans.

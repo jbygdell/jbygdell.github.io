@@ -1,0 +1,28 @@
+<form id="contactForm" action="https://formkeep.com/f/{{site.token}}" method="post" novalidate>
+  <div class="form__input half">
+    <label for="name">Namn</label>
+    <input type="text" name="name" id="name" autocomplete="off" required>
+  </div>
+
+  <div class="form__input input half">
+    <label for="email">E-post</label>
+    <input type="email" name="_replyto" id="email" autocomplete="off" required>
+  </div>
+
+  <div class="form__input half">
+    <label for="name">Telefon</label>
+    <input type="text" name="phone" id="phone" autocomplete="off" required>
+  </div>
+
+  <div class="form__input">
+    <label for="message">Skriv ditt meddelande här...</label>
+    <textarea type="text" name="message" id="message" rows="7" autocomplete="off" required></textarea>
+  </div>
+
+  <input type="hidden" name="_subject" value="Quarkendyk kursförfrågan">
+  <input type="hidden" name="_format" value="plain" />
+  <input class="hidden" type="text" name="_gotcha">
+  <input type="hidden" name="utf8" value="✓">
+  <button class="btn js-submit" type="submit" value="Send">Skicka</button>
+</form>
+

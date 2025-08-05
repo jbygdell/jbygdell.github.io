@@ -1,159 +1,72 @@
-# Config
-# ===============================================================
+# SITE CONFIGURATION
+title: QuarkenDyk
+author: QuarkenDyk
+description: > # Meta description of Homepage
+  TAGS.
+baseurl: ""
+url: "https://quarkendyk.se"
 
-# Language of your content in 2-letter code, e.g.: en, de.
-lang: se
+# SEO PLUGIN
+social:
+  name: QuarkenDyk
+  links:
+    - https://www.facebook.com/quarkendyk/
+    - https://www.instagram.com/quarkendyk/
 
-# The title of your page. Used in the sidebar and the browser tab.
-title: Umeådyksällskap
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'Försäljning', link: '/utrustning'}
+  - {name: 'Kursutbud', link: '/kursutbud'}
+  - {name: 'Service', link: '/service'}
 
-# A list of keywords for your page
-keywords: [dykning, dykträning, dykkurser, ssdf]
 
-description: >
-  Umeådyksällskap är en ideell förening ansluten till Svenska Sportdykarförbundet.
+  # - {name: 'Contact', link: '/contact'}
 
-tagline: Upplev en värld under vattenytan.
+tagline: >
+  Dykutbildning - Dykutrusting
 
-# Sidebar image and theme color of the site.
-accent_image: /assets/img/sidebar-bg.jpg
-accent_color: rgb(79,177,186)
-theme_color: rgb(25,55,71)
+hero_img: banner.JPG # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-# A (square) logo for your site.
-# If provided, it will be shown at the top of the sidebar.
-logo: /assets/img/logo.png
+email: info@quarkendyk.se # email for form submission
 
-# This text will appear in a `<small>` tag in the footer of every page.
-copyright: © 2024. All rights reserved.
+facebook_username:  quarkendyk # replace with your_github_username or comment to remove link from footer
+instagram_username: quarkendyk # replace with your_instagram_username or comment to remove link from footer
 
-# The text font. Expects a string that is a valid CSS font-family value.
-# To change font-weight, see _sass/variables.scss
-font: Noto Sans, Helvetica, Arial, sans-serif
-font_heading: Roboto Slab, Helvetica, Arial, sans-serif
+# disqus:
+#   shortname: janczizikow # to enable comments replace with your_disqus_shortname
 
-# Google fonts is disabled to prevent outgoing traffic
-google_fonts: false
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 
-# Add links to the sidebar.
-menu:
-  - title: Bli medlem
-    url: /medlemskap
-  - title: Blog
-    url: /blog/
-  - title: Dykplatser
-    url: /dykplatser/
-  # - title: Service
-  #   url: /service/
-  - title: Utbildning
-    url: /utbildning/
+service_worker: true
 
-# Pagination configuration (used by the `blog` layout)
-paginate: 10
-paginate_path: /blog/:num/
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
 
-# Hydejack Settings
-# ----------------------------------------------------------------------------------------
-# These settings are specific to Hydejack.
-
-hydejack:
-  # Configure the order of complementary content on blog posts
-  post_addons: [about, newsletter, related, random, comments]
-
-  # Configure the order of complementary content on project pages
-  project_addons: [about, newsletter, other, comments]
-
-  # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external: false
-
-  # Set to `true` if third party plugins fail to work with dynamically loaded pages
-  no_push_state: false
-
-  # Set to `true` if you want to disable the drawer (left hand menue)
-  no_drawer: true
-
-  # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.
-  # Note that this will not hide the navbar completely, only replace it with a static one.
-  # Use custom css to hide completely, e.g. `#_navbar { display: none }`.
-  no_navbar: false
-
-  # Set to true to disable the built-in search functionality.
-  no_search: true
-
-  # Set to `true` if you do not want parts of the css inlined in <head/>
-  # This will increase site build speed dramatically!
-  no_inline_css: false
-
-  # Set to `true` if you don't intend on changing the accent color on a per-page basis.
-  no_page_style: true
-
-  # Code blocks and tables "break" the layout by spanning the full available width.
-  # Set this to true if you want them to be the same width as other content.
-  no_break_layout: true
-
-  # Set to `true` to disable the dynamic Table of Contents on large screens.
-  no_toc: true
-
-  # When set to `true`, will not extend the content in the "third column" on large screens.
-  # Instead, all content will remains within the center column.
-  # Note that this will not affect the Table of Contents, use `no_toc` instead.
-  no_third_column: true
-
-  # Set to `true` if you don't like oversized headlines on large screens.
-  no_large_headings: false
-
-  # Set to `true` if you do not want to expose your resume and projects in machine-readable formats
-  no_structured_data: false
-
-  # You can set this to `true` if you don't want to set the `theme-color` meta tag,
-  # This only affects the meta tag, not the color specified in the app manifest.
-  no_theme_color: false
-
-  no_breadcrumbs: false
-
-  use_lsi: true
-  cookies_banner: false
-  advertise: true
-  hide_dates: false
-  hide_last_modified: false
-
-  dark_mode:
-    always: false
-    dynamic: true
-    sunrise: 6
-    sunset: 18
-    icon: true
-
-  offline:
-    enabled: false
-    cache_version: 1
-    precache_assets:
-      - /assets/img/swipe.svg
-
-optional_front_matter:
-  remove_originals: true
-
-readme_index:
-  remove_originals: true
-  with_frontmatter: true
-
-relative_links:
-  collections: true
-
-titles_from_headings:
-  strip_title: true
-  collections: true
+include: ['_pages']
+permalink: /:title
 
 compress_html:
-  comments: ["<!-- ", " -->"]
   clippings: all
-  endings: all
-  ignore:
-    envs: [development]
 
-sass:
-  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-disable_disk_cache: true
-
-remote_theme: hydecorp/hydejack@v9.2.1
+collections:
+  kurser:
+    output: true
