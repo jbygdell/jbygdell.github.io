@@ -15,7 +15,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  - {name: 'Hem', link: '/'}
   - {name: 'Försäljning', link: '/utrustning'}
   - {name: 'Kursutbud', link: '/kursutbud'}
   - {name: 'Service', link: '/service'}
