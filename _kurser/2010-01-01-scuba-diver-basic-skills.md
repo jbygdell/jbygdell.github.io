@@ -11,6 +11,6 @@ SwedTech Divings grundkurs i sportdykning. Målet med kursen är dykning med luf
 
 Kursen är mer omfattande än vad som är normalt vid en nybörjarkurs och passar även som fortsättningskurs för oerfarna dykare med CMAS *, PADI OW eller liknande nivå av utbildning.
 
-[Intresseanmälan](/contact)
+[Intresseanmälan](mailto:{{site.email}})
 
 [aktuella priser](/kursutbud/priser)
