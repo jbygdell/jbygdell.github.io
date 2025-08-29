@@ -17,6 +17,6 @@ Hur du än väljer att använda dina nya kunskaper efter kursen vet vi att du bl
 
 Kursen kan utföras med singelflaska, dubbelpaket eller sidemount.
 
-[Intresseanmälan](/contact)
+[Intresseanmälan](mailto:{{site.email}})
 
 [aktuella priser](/kursutbud/priser)

@@ -21,6 +21,6 @@ Ekvivalent narkosdjup (END) under kurs är max 30 meter.
 
 För att accelerera dekompressionen används EAN 50 eller 100% oxygen som dekompressionsgaser.
 
-[Intresseanmälan](/contact)
+[Intresseanmälan](mailto:{{site.email}})
 
 [aktuella priser](/kursutbud/priser)

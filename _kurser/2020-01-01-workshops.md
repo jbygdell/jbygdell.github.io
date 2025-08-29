@@ -16,7 +16,6 @@ Se denna typ av dykträning som ett komplement till din tidigare utbildning. Du 
 * Stageflaskehantering
 * What if ... - problemlösning
 
-
-[Intresseanmälan](/contact)
+[Intresseanmälan](mailto:{{site.email}})
 
 [aktuella priser](/kursutbud/priser)

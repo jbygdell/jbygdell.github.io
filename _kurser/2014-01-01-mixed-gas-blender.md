@@ -15,6 +15,6 @@ Efter kursen har du ingående kunskaper i gasernas egenskaper och hur man fyller
 
 Under kursen kommer teori och praktiska övningar varvas. Alla får känna på att blanda både Nitrox och Trimix, samt syrgasanpassa dykutrustning.
 
-[Intresseanmälan](/contact)
+[Intresseanmälan](mailto:{{site.email}})
 
 [aktuella priser](/kursutbud/priser)

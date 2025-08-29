@@ -22,4 +22,6 @@ Under kursens dyk övar du på nedstigningar, avvägning och säkerhetsstopp. Ge
 * Certifierad dykare (NAUI Advanced Open Water Scuba Diver eller motsvarande)
 * 18 år fylld vid kursstart.
 
+[Intresseanmälan](mailto:{{site.email}})
+
 [aktuella priser](/kursutbud/priser)

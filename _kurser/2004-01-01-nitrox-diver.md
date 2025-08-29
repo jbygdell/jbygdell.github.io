@@ -24,4 +24,6 @@ Kursen ska ge kunskap om gasanalys, hantering av utrustning som kommer i kontakt
 * Certifierad dykare (NAUI Open Water Scuba Diver eller motsvarande)
 * 18 år fylld vid kursstart (15 år med målsmans skriftliga tillåtelse).
 
+[Intresseanmälan](mailto:{{site.email}})
+
 [aktuella priser](/kursutbud/priser)

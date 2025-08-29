@@ -12,6 +12,6 @@ Det fina med Triple Fifty Diver är att du kan fortsätta dyka med ditt singelpa
 
 Du kan efter godkänt resultat på kursen planera och utföra dyk till ett maxdjup av 50 meter med trimix som bottengas och EAN 50 som accelererande dekompressionsgas
 
-[Intresseanmälan](/contact)
+[Intresseanmälan](mailto:{{site.email}})
 
 [aktuella priser](/kursutbud/priser)
