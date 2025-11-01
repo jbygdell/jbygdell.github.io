@@ -4,7 +4,7 @@ title: "Nitrox Diver"
 featured-img: Naui
 tag: kurser
 summary: "Målet med kursen är att ge dykeleven kunskap att planera sina dyk med nitroxblandningar innehållande syrgas från 21% upp till 40%."
-permalink: "/kursutbud/nitrox"
+permalink: "/kursutbud/nitrox-diver"
 ---
 
 Målet med kursen är att ge dykeleven kunskap att planera sina dyk med nitroxblandningar innehållande syrgas från 21% upp till 40%.

@@ -4,7 +4,7 @@ title: "Deep Diver"
 featured-img: Naui
 tag: kurser
 summary: "Vill du utforska de dolda djupen? Då är NAUI Deep Diver kursen för dig."
-permalink: "/kursutbud/deep"
+permalink: "/kursutbud/deep-diver"
 ---
 
 Vill du utforska de dolda djupen? Då är NAUI Deep Diver kursen för dig.

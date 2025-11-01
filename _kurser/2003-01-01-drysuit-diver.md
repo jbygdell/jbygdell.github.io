@@ -4,7 +4,7 @@ title: "Drysuit Diver"
 featured-img: Naui
 tag: kurser
 summary: "För dig som har ett certifikat men som inte har dykt med torrdräkt."
-permalink: "/kursutbud/drysuit"
+permalink: "/kursutbud/drysuit-diver"
 ---
 
 För dig som har ett certifikat men som inte har dykt med torrdräkt.
