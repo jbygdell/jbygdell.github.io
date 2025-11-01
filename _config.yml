@@ -42,6 +42,8 @@ service_worker: true
 
 # BUILD SETTINGS
 markdown: kramdown
+kramdown:
+    auto_ids: true
 highlighter: rouge # or pygments or null
 # theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
