@@ -4,6 +4,7 @@ title: "Tripple Fifty Diver"
 featured-img: Swedtech
 tag: kurser
 summary: "Denna kurs riktar sig till dig som har gedigen dykerfarenhet med singelflaska men vill vidare och göra riktigt bra dyk utan att behöva skaffa dubbelpaket."
+permalink: "/kursutbud/tripple-fifty-diver"
 ---
 
 Triple Fifty Diver ger dig kunskap i dykplanering av dekompressionsdyk med trimix som bottengas samt accelererad dekompression med hjälp av Nitrox.

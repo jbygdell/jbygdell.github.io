@@ -4,6 +4,7 @@ title: "Open Water Diver"
 featured-img: Naui
 tag: kurser
 summary: "Målet med kursen är att ge dykeleven såväl praktiska som teoretiska kunskaper och nödvändiga dyktekniker för att säkert dyka till maximalt 18 meters djup."
+permalink: "/kursutbud/open-water-diver"
 ---
 
 Detta är NAUIS kurs på ingångsnivå där du kommer att lära dig grundläggande kunskaper och färdigheter för säker dykning i öppet vatten.
