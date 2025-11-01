@@ -55,6 +55,7 @@ Mycket motståndskraftig mot slitage, punkteringar och nötning. Lämplig för a
 ![E.Space SE](/assets/img/utrustning/santi_espace-se.png){: style="float: right"}
 
 Uppdaterad version av santis basdräkt.
+
 Mycket slitstark, lämplig för alla typer av sportdykning, såväl som kommersiell dykning. Rekommenderas för dykare som söker en ekonomisk, välinvesterad och individuellt anpassad utrustning. Tygets tjocklek kan resultera i minskad komfort och begränsade möjligheter till exakt passform på grund av styvhet och tjocklek.
 
 - 16 herrstorlekar
