@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Santi Diving Equpiment"
+title: "Santi torrdräkter"
 featured-img: Santi-stuff
 tag: utrustning
 summary: ""
-permalink: "/utrustning/santi"
+permalink: "/utrustning/santi/torrdrakter"
 ---
 
 ## Edge
@@ -32,6 +32,19 @@ Mycket slitstark och nötningsbeständig, lämplig för alla typer av dykning, r
 - 16 herr och 12 damstorlekar
 - Smart Seals ringsystem
 - 7 olika färgval
+
+{:style="clear: right"}
+
+---
+
+## E.Lite
+
+![E.Lite](/assets/img/utrustning/santi_elite.png){: style="float: right"}
+
+Mycket motståndskraftig mot slitage, punkteringar och nötning. Lämplig för alla typer av dykning, rekommenderas för dykare som söker högkvalitativ utrustning med stor hållbarhet och bra passform. Den ökade flexibiliteten hos Ripstop-nylontyget ger förbättrad rörelsekomfort under vattnet.
+
+- 16 herr och 12 damstorlekar
+- Smart Seals ringsystem
 
 {:style="clear: right"}
 
