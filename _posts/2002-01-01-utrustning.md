@@ -11,7 +11,7 @@ Jag är återförsäljare för dykutrustning jag själv använder mig av.
 Viss demoutrustning finns att tillgå.  
 
 |:---:|:---:|
-| [![Santi](/assets/img/sale/SANTI_logo_black_alt_RGB.png)](/_utrustning/santi.md) | ![Shearwater](/assets/img/sale/SHEARWATER.png) |
+| [![Santi](/assets/img/sale/SANTI_logo_black_alt_RGB.png)](/utrustning/santi) | ![Shearwater](/assets/img/sale/SHEARWATER.png) |
 | ![Halcyon](/assets/img/sale/Halcyon_RGB_Basic-logo_royal-blue.jpg) | ![Avatar](/assets/img/sale/Avatar_Logo_1.png) |
 | ![Agir](/assets/img/sale/AGIR_logo_black.png) | ![Suex](/assets/img/sale/SUEX_PNG_BLUE.png) |
 | ![Ammonite](/assets/img/sale/Ammonite.png) | ![K01](/assets/img/sale/logo_k01.png) |
