@@ -9,7 +9,7 @@ permalink: "/utrustning/santi/torrdrakter"
 
 ## Edge
 
-![Edge](/assets/img/utrustning/santi_edge.png){: style="float: right"}
+![Edge](/assets/img/utrustning/santi/santi_edge.png){: style="float: right"}
 
 Santis nyaste modell, byggd för hållbarhet, flexibilitet och komfort.
 
@@ -25,7 +25,7 @@ En premiummodell för dykare som söker prestanda och hållbarhet.
 
 ## E.Lite Plus
 
-![E.Lite Plus](/assets/img/utrustning/santi_eliteplus.png){: style="float: right"}
+![E.Lite Plus](/assets/img/utrustning/santi/santi_eliteplus.png){: style="float: right"}
 
 Mycket slitstark och nötningsbeständig, lämplig för alla typer av dykning, rekommenderas för dykare som söker högkvalitativ torrdräkt med stor hållbarhet och utmärkt passform. Ökad flexibilitet tack vare det tunnare Ripstop-nylontyget i bål och ben ger maximal rörelsekomfort under vattnet och flexibilitet i användning för denna typ av torrdräkt.
 
@@ -39,7 +39,7 @@ Mycket slitstark och nötningsbeständig, lämplig för alla typer av dykning, r
 
 ## E.Lite
 
-![E.Lite](/assets/img/utrustning/santi_elite.png){: style="float: right"}
+![E.Lite](/assets/img/utrustning/santi/santi_elite.png){: style="float: right"}
 
 Mycket motståndskraftig mot slitage, punkteringar och nötning. Lämplig för alla typer av dykning, rekommenderas för dykare som söker högkvalitativ utrustning med stor hållbarhet och bra passform. Den ökade flexibiliteten hos Ripstop-nylontyget ger förbättrad rörelsekomfort under vattnet.
 
@@ -52,7 +52,7 @@ Mycket motståndskraftig mot slitage, punkteringar och nötning. Lämplig för a
 
 ## E.Space SE
 
-![E.Space SE](/assets/img/utrustning/santi_espace-se.png){: style="float: right"}
+![E.Space SE](/assets/img/utrustning/santi/santi_espace-se.png){: style="float: right"}
 
 Uppdaterad version av santis basdräkt.
 

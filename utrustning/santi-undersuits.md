@@ -9,7 +9,7 @@ permalink: "/utrustning/santi/understall"
 
 ## BZ420X
 
-![BZ420X](/assets/img/utrustning/santi_bz420x.png){: style="float: right"}
+![BZ420X](/assets/img/utrustning/santi/santi_bz420x.png){: style="float: right"}
 
 BZ420X är ett högpresterande underställ utformat för att ge överlägsen värme och komfort för dykning i kallt vatten.
 
@@ -24,7 +24,7 @@ Det förkomprimerade Thinsulate™ materialet gör att understället ger samma i
 
 ## Flex 190
 
-![Flex 190](/assets/img/utrustning/santi_flex190.png){: style="float: right"}
+![Flex 190](/assets/img/utrustning/santi/santi_flex190.png){: style="float: right"}
 
 FLEX190 är ett utmärkt underställ för dig som tycker att den viktigaste egenskapen är en bra rörelseförmåga under torrdräkten, utan begränsningar och samtidigt av högsta kvalitet.
 
@@ -37,7 +37,7 @@ FLEX190 är ett utmärkt underställ för dig som tycker att den viktigaste egen
 
 ## Kango
 
-![Kango](/assets/img/utrustning/santi_kango.png){: style="float: right"}
+![Kango](/assets/img/utrustning/santi/santi_kango.png){: style="float: right"}
 
 Kango är ett lättare underställ tillverkad i Polartec Power Stretch fleece.
 Utformad för att ge önskad nivå av värme med maximal flexibilitet och komfort.

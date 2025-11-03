@@ -9,7 +9,7 @@ permalink: "/utrustning/santi/varmesystem"
 
 ## BZ420X värmeunderställ
 
-![BZ420X](/assets/img/utrustning/santi_heated_undersuit.png){: style="float: right"}
+![BZ420X](/assets/img/utrustning/santi/santi_heated_undersuit.png){: style="float: right"}
 
 BZ420X underställ med värmeelement placerade på låren, överkroppen och längs med armarna.
 
@@ -21,7 +21,7 @@ BZ420X underställ med värmeelement placerade på låren, överkroppen och län
 
 ## Värmeväst
 
-![Väst](/assets/img/utrustning/santi_heated_vest.png){: style="float: right"}
+![Väst](/assets/img/utrustning/santi/santi_heated_vest.png){: style="float: right"}
 
 Värmevästen är designad att ge extra värme vid långa eller riktigt kalla dyk. Den är tillverkad i 200g Thinsulate och ger viss extra värme även när batteriet är avslaget.
 
@@ -33,7 +33,7 @@ Värmevästen är designad att ge extra värme vid långa eller riktigt kalla dy
 
 ## Värmehandskar
 
-![handskar](/assets/img/utrustning/santi_heated_gloves.png){: style="float: right"}
+![handskar](/assets/img/utrustning/santi/santi_heated_gloves.png){: style="float: right"}
 
 Santis eluppvärmda innervantar är till för dig som har extra lätt att bli kall om händerna under dyket.
 
@@ -45,7 +45,7 @@ Santis eluppvärmda innervantar är till för dig som har extra lätt att bli ka
 
 ## Elgenomföring
 
-![genomföring](/assets/img/utrustning/santi_heating_connector.png){: style="float: right"}
+![genomföring](/assets/img/utrustning/santi/santi_heating_connector.png){: style="float: right"}
 
 En elgenomföring ger dig möjlighet att använda Santis eluppvärmda produkter. Detta är en adapter som monteras mellan dräkten och en redan existerande torrdräktsinflator
 
@@ -57,7 +57,7 @@ En elgenomföring ger dig möjlighet att använda Santis eluppvärmda produkter.
 
 ## Thermovalve
 
-![Thermovalve](/assets/img/utrustning/santi_thermovalve.png){: style="float: right"}
+![Thermovalve](/assets/img/utrustning/santi/santi_thermovalve.png){: style="float: right"}
 
 Thermovalve kombinerar inloppsventil och genomföring för elvärme i en enhet utan att bygga på höjden jämfört med en vanlig inloppsventil.
 
@@ -69,7 +69,7 @@ Thermovalve kombinerar inloppsventil och genomföring för elvärme i en enhet u
 
 ## Blue Power batteri
 
-![batteri](/assets/img/utrustning/santi_heating_battery.png){: style="float: right"}
+![batteri](/assets/img/utrustning/santi/santi_heating_battery.png){: style="float: right"}
 
 Modern teknik och elektronik gör det möjligt att från och med nu njuta av oavbruten och orubblig värmekomfort under dyktiden. Blue Power-batteriet möjliggör två värmenivåer och möjlighet för användren att byta strömkabeln vid behov.
 
