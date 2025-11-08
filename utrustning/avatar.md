@@ -19,7 +19,7 @@ Avatar 101 torrdräkt; Smart, lätt och byggd för modern torrdräktsdykning. Pr
 
 ## Torrdräkt Airon 102
 
-![airon 102](/assets/img/utrustning/avatar/101.jpg){: style="float: right"}
+![airon 102](/assets/img/utrustning/avatar/airon.jpg){: style="float: right"}
 
 Avatar Airon 102 Är det senaste tillskottet från Avatar och är designad för dykare som söker innovation och överlägsen design. Airon använder ett tjockare Cordura Nylon Oxford-tyg på sin översta lager, vilket erbjuder ökad slitstyrka samtidigt som tygets innovativa andningsförmåga bibehålls.
 
