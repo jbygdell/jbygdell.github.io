@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Santi torrdräkter"
-featured-img: Santi-stuff
 tag: utrustning
 summary: ""
 permalink: "/utrustning/santi/torrdrakter"

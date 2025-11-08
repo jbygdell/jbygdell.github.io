@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Santi underställ"
-featured-img: Santi-stuff
 tag: utrustning
 summary: ""
 permalink: "/utrustning/santi/understall"

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Shearwater"
-featured-img: Santi-stuff
 tag: utrustning
 summary: ""
 permalink: "/utrustning/shearwater"
