@@ -15,4 +15,4 @@ Viss demoutrustning finns att tillgå.
 | ![Halcyon](/assets/img/sale/Halcyon_RGB_Basic-logo_royal-blue.jpg) | [![Avatar](/assets/img/sale/Avatar_Logo_1.png)](/utrustning/avatar) |
 | [![Agir](/assets/img/sale/AGIR_logo_black.png)](/utrustning/agir) | ![Suex](/assets/img/sale/SUEX_PNG_BLUE.png) |
 | ![Ammonite](/assets/img/sale/Ammonite.png) | ![K01](/assets/img/sale/logo_k01.png) |
-| ![Shark](/assets/img/sale/Shark-logotype-portrait-BLACK.png) | ![Poseidon](/assets/img/sale/poseidon_logo.png) |
+| [![Shark](/assets/img/sale/Shark-logotype-portrait-BLACK.png)](/utrustning/shark) | ![Poseidon](/assets/img/sale/poseidon_logo.png) |
