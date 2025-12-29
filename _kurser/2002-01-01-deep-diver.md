@@ -15,7 +15,17 @@ Under kursens dyk övar du på nedstigningar, avvägning och säkerhetsstopp. Ge
 
 ### Kursmoment
 
-* test
+### Teori
+
+* Dykplanering
+* Dekompressionsteori
+* Kvävenarkos
+
+### Dykträning
+
+* Konstrollerad uppstigning
+* Simulerad dekompression
+* Tillämpad dykträning
 
 ### Förkrav
 
