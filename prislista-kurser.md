@@ -20,4 +20,4 @@ permalink: /kursutbud/priser
 | Technical Diver | 14950 kr |
 | Mixed Gas Blender | 2995 kr |
 | __Workshops__ ||
-| En dags dykträning | 1995 kr |
+| En dags dykträning | 2495 kr |
