@@ -26,7 +26,7 @@ navigation: # Navigation links
 tagline: >
   Dykutbildning - Dykutrustning - Utrustningsservice
 
-hero_img: banner.JPG # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: banner.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: info@quarkendyk.se # email for form submission
 

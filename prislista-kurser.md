@@ -19,5 +19,5 @@ permalink: /kursutbud/priser
 | Tripple Fifty Diver | 14950 kr |
 | Technical Diver | 14950 kr |
 | Mixed Gas Blender | 2995 kr |
-| __Workshops__ ||
+| __Workshops__ | |
 | En dags dykträning | 2495 kr |
