@@ -12,13 +12,13 @@
     {% if post.featured-img %}
       <figure class="post-card__thumb">
         <img
-          src="/assets/img/posts/{{post.featured-img}}_placehold.jpg"
-          data-srcset="/assets/img/posts/{{post.featured-img}}_thumb.jpg, /assets/img/posts/{{post.featured-img}}_thumb@2x.jpg 2x"
+          src="/assets/img/posts/{{post.featured-img}}_placehold.webp"
+          data-srcset="/assets/img/posts/{{post.featured-img}}_thumb.webp, /assets/img/posts/{{post.featured-img}}_thumb@2x.webp 2x"
           class="lazyload blur"
           alt="{{post.title}}"
           style="object-fit: scale-down"
         />
-        <noscript><img src="/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
+        <noscript><img src="/assets/img/posts/{{post.featured-img}}_thumb.webp" alt="{{ post.title }}"></noscript>
       </figure>
     {% else %}
       <figure class="post-card__thumb">
