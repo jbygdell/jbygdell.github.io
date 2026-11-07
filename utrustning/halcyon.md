@@ -158,6 +158,18 @@ Kanisterlampa med en justerbar ljusbild där dykaren kan välja hur pass snäv s
 
 {:style="clear: right"}
 
+### Phaser
+
+![Phaser](/assets/img/utrustning/halcyon/Phaser.png){: style="float: right"}
+
+Phaser är halcyons senaste lampa på marknaden. En sladdlös primärlamp liknande [Flare](#flare-exp)
+
+- fokuserad högintensiv ljusbild
+- två effektlägen
+- 2 - 6 timmars drifttid
+
+{:style="clear: right"}
+
 ### Photon
 
 ![Photon](/assets/img/utrustning/halcyon/Photon_and_Mini_Photon.png){: style="float: right"}

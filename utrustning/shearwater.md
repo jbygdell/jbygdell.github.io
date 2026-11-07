@@ -25,10 +25,10 @@ Dyklägen:
 
 ## Peregrine TX
 
-![Peregrine TX](/assets/img/utrustning/shearwater/peregrine-tx.jpg){: style="float: right"}
+![Peregrine TX](/assets/img/utrustning/shearwater/peregrine-tx-collection.png){: style="float: right"}
 
 Shearwater Peregrine TX Är uppföljaren till Peregrine. Denna är utrustad med digital kompass och integration för trådlös avläsning av flasktrycket. [Sändare](#swift) säljs separat.
-I övrigt är det samma funktioner som vanliga Peregrine.
+I övrigt är det samma funktioner som vanliga Peregrine. Finns att tillgå i tre färger: svart, ljusgrå och turkos.
 
 Dyklägen:
 
@@ -39,11 +39,12 @@ Dyklägen:
 
 {:style="clear: right"}
 
-## Perdix 2
+## Perdix 3
 
-![Perdix 2](/assets/img/utrustning/shearwater/perdix.jpg){: style="float: right"}
+![Perdix 3](/assets/img/utrustning/shearwater/perdix.jpg){: style="float: right"}
 
-Shearwater Perdix 2, är andra generationen av Perdix modellen. Uppföljaren är lika trevlig och lätt att använda som tidigare version men med lite nya funktioner. Perdix 2 kan även kompletteras med trådlös sändare för att visa flasktrycket på upp till 4st flaskor. [Sändare](#swift) säljs separat.
+Perdix 3 är den senaste generation av Shearwaters flaggskepps modell ~Perdix~. Med en 2.4 tums Amoled skärm där dykaten kan både storlek och position på den information som skall visas ges oandliga anpassnings möjligheter.Går att komplettera med trådlös sändare för att visa flasktrycket på upp till 4st flaskor. [Sändare](#swift) säljs separat.
+Finns att tillgå i svart eller silver.
 
 Dyklägen:
 
