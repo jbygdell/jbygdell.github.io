@@ -6,29 +6,14 @@ summary: ""
 permalink: "/utrustning/shearwater"
 ---
 
-## Peregrine
-
-![Peregrine](/assets/img/utrustning/shearwater/peregrine.jpg){: style="float: right"}
-
-Shearwater Peregrine lämpar sig för så väl nya dykare som mer avancerade med dekompression upp till tre gasbyten.
-Tydlig och lättläst display och enkla knapptryckningar för att navigera i menyerna.
-Finns att tillgå i tre färger: svart, grå och vit.
-
-Dyklägen:
-
-- Luft
-- Nitrox (max 40% syre)
-- 3 gas Nitrox (max 100% syre)
-- Bottomtimer
-
-{:style="clear: right"}
-
 ## Peregrine TX
 
 ![Peregrine TX](/assets/img/utrustning/shearwater/peregrine-tx-collection.png){: style="float: right"}
 
 Shearwater Peregrine TX Är uppföljaren till Peregrine. Denna är utrustad med digital kompass och integration för trådlös avläsning av flasktrycket. [Sändare](#swift) säljs separat.
-I övrigt är det samma funktioner som vanliga Peregrine. Finns att tillgå i tre färger: svart, ljusgrå och turkos.
+Shearwater Peregrine TX lämpar sig för så väl nya dykare som mer avancerade med dekompression upp till tre gasbyten.
+Tydlig och lättläst display och enkla knapptryckningar för att navigera i menyerna.
+Finns att tillgå i tre färger: svart, ljusgrå och turkos.
 
 Dyklägen:
 
@@ -43,7 +28,7 @@ Dyklägen:
 
 ![Perdix 3](/assets/img/utrustning/shearwater/perdix.jpg){: style="float: right"}
 
-Perdix 3 är den senaste generation av Shearwaters flaggskepps modell ~Perdix~. Med en 2.4 tums Amoled skärm där dykaten kan både storlek och position på den information som skall visas ges oandliga anpassnings möjligheter.Går att komplettera med trådlös sändare för att visa flasktrycket på upp till 4st flaskor. [Sändare](#swift) säljs separat.
+Perdix 3 är den senaste generation av Shearwaters flaggskepps modell. Med en 2.4 tums Amoled skärm där dykaten kan både storlek och position på den information som skall visas ges oandliga anpassnings möjligheter.Går att komplettera med trådlös sändare för att visa flasktrycket på upp till 4st flaskor. [Sändare](#swift) säljs separat.
 Finns att tillgå i svart eller silver.
 
 Dyklägen:
