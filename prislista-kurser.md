@@ -21,3 +21,4 @@ permalink: /kursutbud/priser
 | Mixed Gas Blender | 2995 kr |
 | __Workshops__ | |
 | En dags dykträning | 2495 kr |
+| HFiD | 995 kr |
