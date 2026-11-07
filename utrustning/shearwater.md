@@ -10,9 +10,9 @@ permalink: "/utrustning/shearwater"
 
 ![Peregrine TX](/assets/img/utrustning/shearwater/peregrine-tx-collection.png){: style="float: right"}
 
-Shearwater Peregrine TX Är uppföljaren till Peregrine. Denna är utrustad med digital kompass och integration för trådlös avläsning av flasktrycket. [Sändare](#swift) säljs separat.
-Shearwater Peregrine TX lämpar sig för så väl nya dykare som mer avancerade med dekompression upp till tre gasbyten.
-Tydlig och lättläst display och enkla knapptryckningar för att navigera i menyerna.
+Shearwater Peregrine TX Är uppföljaren till Peregrine. Denna är utrustad med digital kompass och integration för trådlös avläsning av flasktrycket, [sändare](#swift) säljs separat.
+Peregrine TX lämpar sig för så väl nya som mer avancerade dykare med upp till tre gasbyten för accelerad dekompression.
+Peregrine TX har en tydlig och lättläst display och enkla knapptryckningar för att navigera i menyerna.
 Finns att tillgå i tre färger: svart, ljusgrå och turkos.
 
 Dyklägen:
@@ -60,6 +60,6 @@ Dyklägen:
 
 ![Swift](/assets/img/utrustning/shearwater/swift.jpg){: style="float: right"}
 
-Shearwater Swift gör det möjligt att läsa av lufttrycket digitalt och trådlöst direkt i dykdatorn. Passar till [Peregrine TX](#Peregrine-tx), [Perdix 3](#Perdix-3) samt [Petrel 3](#Petrel-3)
+Shearwater Swift gör det möjligt att läsa av lufttrycket digitalt och trådlöst direkt i dykdatorn. Passar till [Peregrine TX](#peregrine-tx), [Perdix 3](#perdix-3) samt [Petrel 3](#petrel-3)
 
 {:style="clear: right"}
