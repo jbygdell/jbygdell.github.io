@@ -60,6 +60,6 @@ Dyklägen:
 
 ![Swift](/assets/img/utrustning/shearwater/swift.jpg){: style="float: right"}
 
-Shearwater Swift gör det möjligt att läsa av lufttrycket digitalt och trådlöst direkt i dykdatorn. Passar till [Peregrine TX](#peregrine-tx), [Perdix 2](#perdix-2) samt [Petrel 3](#petrel-3)
+Shearwater Swift gör det möjligt att läsa av lufttrycket digitalt och trådlöst direkt i dykdatorn. Passar till [Peregrine TX](#Peregrine-tx), [Perdix 3](#Perdix-3) samt [Petrel 3](#Petrel-3)
 
 {:style="clear: right"}
